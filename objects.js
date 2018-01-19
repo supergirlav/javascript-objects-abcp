@@ -1,2 +1,2 @@
-var playlist = {Nsync:"Bye-Bye-Bye", Backstreet:"Everybody", Brittney:"Lucky"}
+var playlist = {Nsync:"Bye-Bye-Bye", Backstreet:"Everybody", Brittney:"Lucky"};
 
