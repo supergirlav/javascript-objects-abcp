@@ -1,7 +1,7 @@
 var playlist = {Nsync:"Bye-Bye-Bye", Backstreet:"Everybody", Brittney:"Lucky"};
 
 
-function updatePlaylist(playlist, Christina, Dirrrty) {
-   playlist[Christina] = Dirrrty;
+function updatePlaylist(playlist, artistName, songTitle) {
+   playlist[artistName] = songTitle;
    return playlist; 
 }
